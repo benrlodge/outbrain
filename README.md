@@ -1,0 +1,1 @@
+This is a js snippet for connecting with Outbrain. 
